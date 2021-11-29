@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rituaaliliekki
+  - nostettavat esineet
+  - rituaalikynttila
+  - mustapuu
+  - kirjansivu1
+  - kirjansivu2
+  - kirjansivu3
+  - kerattavasivu
+  - luettava
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Aineeton
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
